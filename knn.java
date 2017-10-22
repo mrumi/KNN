@@ -1,4 +1,3 @@
-package test;
 
 /*
  * To change this template, choose Tools | Templates
