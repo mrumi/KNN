@@ -3,8 +3,6 @@
  * and open the template in the editor.
  */
 
-package test;
-
 public class Distance implements Comparable
 {
     private String label;    
