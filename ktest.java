@@ -465,8 +465,7 @@ public class ktest {
     			cf++;    		             		
     		similarity.clear();
     	}
-    	double temp_accuracy=(double)ct/(ct+cf);  
-    	System.out.println(temp_accuracy*100);
+    	double temp_accuracy=(double)ct/(ct+cf);      	
         return temp_accuracy;    	
     }        
 	        
