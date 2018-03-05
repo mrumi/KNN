@@ -11,8 +11,9 @@ public class Main {
 		kt.calculateDistance();
 		kt.calIDF();
 		kt.calTf_train(); 
-		kt.calTf_test(); 		
-    	kt.calTf_IDF();
+		kt.calTf_test(); 
+		double accuracy = kt.calTf_IDF();
+		System.out.println(accuracy);
 		kt.clear();
 	}
 		
